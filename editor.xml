@@ -1,0 +1,20 @@
+<application>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bmytodo\b.*">
+      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <filter name="Project Todos">
+      <pattern index="2" />
+    </filter>
+  </component>
+</application>

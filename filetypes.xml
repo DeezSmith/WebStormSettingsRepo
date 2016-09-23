@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="sampleView" type="HTML" />
+      <mapping pattern="go-boilerplate" type="PLAIN_TEXT" />
+      <mapping pattern="bowerc" type="PLAIN_TEXT" />
+      <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="branding.html" type="PLAIN_TEXT" />
+      <mapping pattern="bowerrc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

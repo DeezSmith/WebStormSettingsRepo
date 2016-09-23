@@ -1,0 +1,51 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>/usr/local/bin/bower</exe-path>
+        <config-path />
+      </component>
+      <component name="MongoConfiguration">
+        <option name="shellPath" value="/usr/local/bin/mongod" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="terminal" />
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Projects" />
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="isCompilerEnabled" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="hg4idea.settings">
+        <option name="CHECK_INCOMING_OUTGOING" value="true" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.12562811" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

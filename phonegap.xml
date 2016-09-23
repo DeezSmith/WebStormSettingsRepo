@@ -1,0 +1,5 @@
+<application>
+  <component name="PhoneGapSettings">
+    <option name="executablePath" value="$USER_HOME$/.npm-packages/bin/phonegap" />
+  </component>
+</application>

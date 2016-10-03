@@ -4,6 +4,7 @@
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="16" />
   </component>
 </application>

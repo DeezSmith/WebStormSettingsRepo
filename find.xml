@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '.../src - [opscntr]'" />
     <option name="defaultScopeName" value="Directory '.../src - [opscntr]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../src - [opscntr]'" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,9 +18,9 @@
       <mask>*.mxml</mask>
       <mask>*.less</mask>
       <mask>*.*</mask>
-      <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

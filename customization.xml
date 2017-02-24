@@ -45,12 +45,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -65,16 +59,6 @@
     <group value="ToolbarRunGroup" is_group="true" action_type="1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="14">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="15">
-      <path value="root" />
-      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="ShowNavBar" />

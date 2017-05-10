@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile2" type="Dockerfile" />
       <mapping pattern="sampleView" type="HTML" />
       <mapping pattern="go-boilerplate" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="branding.html" type="PLAIN_TEXT" />
       <mapping pattern="bowerc" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />

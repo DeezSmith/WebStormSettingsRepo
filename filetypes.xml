@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="Dockerfile2" type="Dockerfile" />
+      <mapping ext="jenkins" type="Dockerfile" />
       <mapping pattern="sampleView" type="HTML" />
       <mapping pattern="go-boilerplate" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />

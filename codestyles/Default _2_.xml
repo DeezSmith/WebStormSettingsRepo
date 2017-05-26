@@ -7,7 +7,4 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
 </code_scheme>

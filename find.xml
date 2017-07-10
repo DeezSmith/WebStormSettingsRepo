@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -19,9 +20,12 @@
       <mask>*.mxml</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
-      <mask>*.html</mask>
       <mask>*.*</mask>
+      <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.t</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>

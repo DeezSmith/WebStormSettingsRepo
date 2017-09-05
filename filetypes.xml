@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile2" type="Dockerfile" />
       <mapping ext="jenkins" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="sampleView" type="HTML" />
       <mapping pattern="go-boilerplate" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />

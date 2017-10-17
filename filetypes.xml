@@ -6,6 +6,7 @@
       <mapping ext="jenkins" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="sampleView" type="HTML" />
+      <mapping ext="service" type="JavaScript" />
       <mapping pattern="go-boilerplate" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="branding.html" type="PLAIN_TEXT" />

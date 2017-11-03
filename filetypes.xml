@@ -1,7 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="Dockerfile2" type="Dockerfile" />
+      <mapping ext="jenkins" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="sampleView" type="HTML" />
+      <mapping ext="service" type="JavaScript" />
+      <mapping pattern="go-boilerplate" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="branding.html" type="PLAIN_TEXT" />
+      <mapping pattern="bowerc" type="PLAIN_TEXT" />
+      <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="bowerrc" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="1978548965" type="PLAIN_TEXT" />
+      <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

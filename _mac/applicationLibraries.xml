@@ -33,6 +33,9 @@
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.1.3_jquery.js" />
+        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.1.3_jquery.js" />
@@ -81,6 +84,9 @@
     <library name="jquery.validate" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.13.1_jquery.validate.js" />
+        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.13.1_jquery.validate.js" />
@@ -121,6 +127,11 @@
       <SOURCES />
     </library>
     <library name="typeahead-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_typeahead_typeahead.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_typeahead_typeahead.d.ts" />
       </CLASSES>

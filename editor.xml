@@ -1,4 +1,8 @@
 <application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

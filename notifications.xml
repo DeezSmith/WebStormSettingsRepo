@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="CodealikeApplicationComponent.Notifications" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" />
+  </component>
+</application>

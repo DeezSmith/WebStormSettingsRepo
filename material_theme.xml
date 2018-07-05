@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="616161" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="userId" value="3499de55:1646b1a2423:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>

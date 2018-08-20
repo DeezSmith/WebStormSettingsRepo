@@ -1,7 +1,17 @@
 <templateSet group="JavaScript">
-  <template name="ld" value="log.data('$FUNCTION$, Line $LINE$ $PARAM_TEXT$: ', $PARAM$);$END$&#10;" description="Insert log.data" toReformat="true" toShortenFQNames="true">
+  <template name="ld" value="log.data('$FUNCTION$ - $PARAM_TEXT$: ', $PARAM$);$END$&#10;" description="Insert console.log" toReformat="true" toShortenFQNames="true">
     <variable name="FUNCTION" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="LINE" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM_TEXT" expression="" defaultValue="PARAM" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log('$CLASS$:$FUNCTION$:$PARAM_TEXT$', $PARAM$);$END$&#10;" description="Insert console.log" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="jsClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="FUNCTION" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM_TEXT" expression="" defaultValue="PARAM" alwaysStopAt="true" />
     <context>

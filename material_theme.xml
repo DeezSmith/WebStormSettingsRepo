@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
@@ -9,6 +8,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="3499de55:1646b1a2423:-7fff" />
-    <option name="version" value="3.0.0-rc4" />
+    <option name="version" value="3.1.0" />
   </component>
 </application>

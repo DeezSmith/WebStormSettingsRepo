@@ -6,5 +6,16 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="lpChat" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_lpcdn.lpsnmedia.net_api_chat_public_lpChat.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_lpcdn.lpsnmedia.net_api_chat_public_lpChat.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>

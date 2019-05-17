@@ -20,4 +20,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="tc" value="    try {&#10;      $END$&#10;    } catch (e) {&#10;      console.log('$CLASS$:$FUNCTION$:Error', e);&#10;    }&#10;" description="Try Catch Block" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="jsClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="FUNCTION" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
